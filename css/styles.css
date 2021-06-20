@@ -1,0 +1,13 @@
+div{
+    margin: auto;
+    align-items: center;
+}
+
+.cls{
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+}
+body{
+    background-color: aqua;
+}
